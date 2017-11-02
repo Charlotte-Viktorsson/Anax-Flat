@@ -1,4 +1,4 @@
-Copyright &copy; 2012-2017 [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se)
+Copyright &copy; 2017 Charlotte Viktorsson
 
 * [License](license)
 * [Cookies](cookies)

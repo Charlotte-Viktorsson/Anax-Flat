@@ -29,8 +29,8 @@ return [
 
             "testing" => [
                 "text"  => t("Testing"),
-                "url"   => $this->di->get("url")->create("testingNewPart"),
-                "title" => t("Testing new Part")
+                "url"   => $this->di->get("url")->create("testing"),
+                "title" => t("Testing")
             ],
         ],
     ],
