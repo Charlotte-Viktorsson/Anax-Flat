@@ -11,7 +11,7 @@ views:
                 type: content
                 route: block/byline
 ...
-Charlotte Viktorsson
+Charlottes ME-sida i kursen *Design*
 ====================
 
 Hej!

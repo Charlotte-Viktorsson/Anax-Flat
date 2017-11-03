@@ -13,6 +13,12 @@ return [
 
         // Here comes the menu structure
         "items" => [
+            "home" => [
+                "text"  => t("Hem"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("Startsida med me-innehåll"),
+                "mark-if-parent" => true,
+            ],
 
             "report" => [
                 "text"  => t("Report"),
@@ -25,6 +31,12 @@ return [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
+            ],
+
+            "markdown" => [
+                "text"  => t("Markdown"),
+                "url"   => $this->di->get("url")->create("markdown"),
+                "title" => t("Markdown examples")
             ],
 
             "testing" => [
