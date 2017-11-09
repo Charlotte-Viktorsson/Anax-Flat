@@ -33,12 +33,6 @@ return [
                 "title" => t("About this website")
             ],
 
-            "markdown" => [
-                "text"  => t("Markdown"),
-                "url"   => $this->di->get("url")->create("markdown"),
-                "title" => t("Markdown examples")
-            ],
-
             "testing" => [
                 "text"  => t("Testing"),
                 "url"   => $this->di->get("url")->create("testing"),
@@ -49,7 +43,7 @@ return [
 
 
 
-/*
+
     // Used as menu together with responsive menu
     // Name of this menu
     "navbarMax" => [
@@ -60,6 +54,12 @@ return [
 
         // Here comes the menu structure
         "items" => [
+            "home" => [
+                "text"  => t("Hem"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("Startsida med me-innehåll"),
+                "mark-if-parent" => true,
+            ],
 
             "report" => [
                 "text"  => t("Report"),
@@ -73,9 +73,14 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
+
+            "testing" => [
+                "text"  => t("Testing"),
+                "url"   => $this->di->get("url")->create("testing"),
+                "title" => t("Testing")
+            ],
         ],
     ],
-*/
 
 
     /**
