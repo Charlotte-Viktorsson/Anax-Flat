@@ -24,3 +24,8 @@ V1.2.0 (2017-11-09)
 * Added javascript-part in theme.php
 * Added link to github for my theme
 * Added report part for kmom02
+
+V1.2.1 (2017-11-09)
+---------------------------------------
+
+* formating around the word function in responsive-menu js-file
