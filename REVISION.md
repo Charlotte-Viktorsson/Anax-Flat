@@ -25,7 +25,13 @@ V1.2.0 (2017-11-09)
 * Added link to github for my theme
 * Added report part for kmom02
 
-V1.2.1 (2017-11-09)
+V1.2.1 (2017-11-09) (=V2.0.0)
 ---------------------------------------
 
 * formating around the word function in responsive-menu js-file
+
+V3.0.0 (2017-11-18)
+
+* Updated for Kmom03
+* Added vertical and horizontal grids
+* Added report part for Kmom03  
