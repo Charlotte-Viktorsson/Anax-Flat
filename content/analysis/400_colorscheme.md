@@ -6,9 +6,9 @@ Färganalys
 För det första så ville jag tänka lokalt, så sidorna är från ställen jag känner till här i Blekinge.
 
 Sedan så tänkte jag att motsatser är roligt att jämföra, mörkt och ljust.
-Ett typiskt mörkt exempel är Sweden Rock hemsidan och en typisk lugn och ljus sida är Pure-Yoga Studio.
+Ett typiskt mörkt exempel är [Sweden Rock](http://www.swedenrock.com/) och en typisk lugn och ljus sida är [Pure-Yoga](http://www.pure-yoga.se/).
 
-Som tredjeval tog jag en sida som jag gillar och nyligen sett, Restaurangen Montmartre i Karlskrona.
+Som tredjeval tog jag en sida som jag gillar och nyligen sett, [Restaurang Montmartre](http://www.montmartre.se/) i Karlskrona.
 
 ###Metod
 
@@ -17,7 +17,7 @@ Jag har arbetat ensam med den här övningen och kollat runt på sidorna, samt a
 För att undersöka färgscheman har jag tagit hjälp av Adobe Color CC färghjul och Pictacolous.
 För att försöka bestämma vissa fonter har jag använt myFonts' WhatTheFont (tyvärr utan större framgång).
 
-[Sweden Rock](http://www.swedenrock.com/)
+Sweden Rock
 -----
 
 ###Sammanfattning
@@ -61,7 +61,7 @@ Rubriker:       "Ubuntu Condensed"
 Vanlig text:    "Open Sans"
 
 
-[Pure-Yoga](http://www.pure-yoga.se/)
+Pure-Yoga
 ----
 
 ###Sammanfattning
@@ -69,7 +69,7 @@ Den här sidan är ljus och har stora lugna naturbilder i fokus med yogisar.
 Det är mycket vit space runt objekten och de verkar ha tänkt på det gyllene snittet vid sin bildkomposition. Jämnstora pastellfärgade bilder är utplacerade enligt ett grid mönster och har varsin enhetlig stor ljus cirkel med rubriker och påståenden.
 Huvudmenyn följer med när man scrollar ned.
 
-###Snapshot bilder
+###Snapshot bild
 
 <img src="img/analys/BildPureYogaHemsida.PNG", alt="Bild 1 från Pure-Yogas's hemsida.">
 
@@ -110,7 +110,7 @@ Jag gillar de gridutplacerade bilderna med runda cirklar med text.
 
 
 
-[Restaurang Montmartre](http://www.montmartre.se/)
+Restaurant Montmartre
 ----
 
 ###Sammanfattning
