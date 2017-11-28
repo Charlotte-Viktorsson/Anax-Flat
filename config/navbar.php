@@ -33,11 +33,11 @@ return [
                 "title" => t("About this website")
             ],
 
-            "testing" => [
+            /*"testing" => [
                 "text"  => t("Testing"),
                 "url"   => $this->di->get("url")->create("testing"),
                 "title" => t("Testing")
-            ],
+            ],*/
             "grid" => [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
@@ -48,6 +48,19 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typoigraphic Horizontal Grid")
             ],
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis from kmoms"),
+                "mark-if-parent" => true,
+            ],
+            "tema" => [
+                "text"  => t("Themes"),
+                "url"   => $this->di->get("url")->create("teman"),
+                "title" => t("Teman"),
+                "mark-if-parent" => true,
+            ],
+
         ],
     ],
 
@@ -84,11 +97,11 @@ return [
                 "title" => t("About this website")
             ],
 
-            "testing" => [
+            /*"testing" => [
                 "text"  => t("Testing"),
                 "url"   => $this->di->get("url")->create("testing"),
                 "title" => t("Testing")
-            ],
+            ],*/
             "grid" => [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
@@ -99,6 +112,19 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typoigraphic Horizontal Grid")
             ],
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis from kmoms"),
+                "mark-if-parent" => true,
+            ],
+            "tema" => [
+                "text"  => t("Themes"),
+                "url"   => $this->di->get("url")->create("teman"),
+                "title" => t("Teman"),
+                "mark-if-parent" => true,
+            ],
+
         ],
     ],
 

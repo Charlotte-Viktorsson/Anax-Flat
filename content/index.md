@@ -19,12 +19,16 @@ Hej!
 Här är en enkel websida gjort av mig som en del av kursen __design__ som ingår i kurspaketet [Webbprogrammering och Databaser](https://www.bth.se/kurspaket/KP852/20172/).
 Jag bor på landet utanför Karlshamn i Blekinge med man, två barn, två katter och en hund.
 
-Jag studerade datateknik i slutet av 90-talet och har sedan dess jobbat med mjukvaruutveckling. <img src="img/20170826.jpg" class="stugbild" alt="bild på lan-stugan"/>
+Jag studerade datateknik i slutet av 90-talet och har sedan dess jobbat med mjukvaruutveckling.
 Nu önskar jag fördjupa mina front-end kunskaper!
 
 Den första kursen i kurspaketet lärde mig PHP, HTML och CSS och lite databashantering till det. Jag hoppas den här kursen kommer att lära mig att designa kod bättre.
 
-Jag studerar på distans och sitter oftast i vår "lan"-stuga!
-Ni kan hitta mig i gitter-chatten under namnet *chokolotte* (för jag älskar ju choklad!), hoppas vi hörs!
+Jag studerar på distans och sitter oftast i vår "lan"-stuga! Ni kan hitta mig i gitter-chatten under namnet *chokolotte* (för jag älskar ju choklad!), hoppas vi hörs!
 
 mvh Charlotte
+
+<figure>
+    <img src="img/20170826.jpg" class="stugbild" alt="bild på lan-stugan"/>
+    <figcaption>chokolottes lan-stuga</figcaption>
+</figure>

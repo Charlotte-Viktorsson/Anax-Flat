@@ -14,6 +14,8 @@ Ramverket som använts finns i GitHub [canax/anax-flat](https://github.com/canax
 [chokolotte/Anax-Flat](https://github.com/chokolotte/Anax-Flat)
 [chokolotte/Anax-Flat-Theme](https://github.com/chokolotte/anax-flat-theme).
 
-<img src="img/naturbildMedText.jpg", class="naturbildBohus", alt="Naturbild Bohus">
 
-Bli inspirerad av naturen!
+<figure>
+    <img src="img/naturbildMedText.jpg", class="naturbildBohus", alt="Naturbild Bohus">
+    <figcaption>Bli inspirerad av naturen!</figcaption>
+</figure>

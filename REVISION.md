@@ -40,3 +40,11 @@ V3.0.1 (2017-11-19)
 ---------------------------------------
 
 * minor corrections for kmom03
+
+V4.0.0 (2017-11-28)
+---------------------------------------
+
+* Updated for kmom04 with new themes
+* Added analysis section and color-analysis for this kmom.
+* Added page for tema descriptions
+* Removed unneccesary testpage
