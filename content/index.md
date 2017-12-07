@@ -11,7 +11,7 @@ views:
                 type: content
                 route: block/byline
 ...
-Charlottes ME-sida i kursen *Design*
+Charlottes ME-sida
 ====================
 
 Hej!
@@ -28,7 +28,4 @@ Jag studerar på distans och sitter oftast i vår "lan"-stuga! Ni kan hitta mig 
 
 mvh Charlotte
 
-<figure>
-    <img src="img/20170826.jpg" class="stugbild" alt="bild på lan-stugan"/>
-    <figcaption>chokolottes lan-stuga</figcaption>
-</figure>
+[FIGURE src="image/20170826.jpg" class="stugbild center" caption="chokolottes studiestuga"]

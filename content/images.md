@@ -1,36 +1,24 @@
+---
+titleBreadcrumb: Images
+...
+
 Images
 ======
 
-Dbwebbisar hoppar omkring bland träden
-==================================
+Testsida för bilder
+-----------
 
-<!--<figure class="figure right">
-    <a href="image/dbwebbisar.jpg"><img src="image/dbwebbisar.jpg?w=200&h=150&a=0,20,20,50&cf" alt=""/></a>
-</figure> -->
-[FIGURE src="image/dbwebbisar.jpg?w=200&h=150&a=0,20,20,50&cf" class="right"]
+[FIGURE src="image/KurreVilar.jpg?w=250&h=200&cf" caption="Kurre vilar, left w25." class="left w25"]
+[FIGURE src="image/KurreVilar.jpg?w=250&cf&area=0,30,10,5" caption="Kurre vilar, left w25." class="left w25"]
 
-Se hur de små dbwebbisarna hoppar runt i trädet.
+[FIGURE src="image/KurreVilar.jpg?w=250&h=250&f=contrast,-20&convolve=draw:sharpen-alt" caption="Kurre vilar, right w25" class="right w25"]
+[FIGURE src="image/KurreVilar.jpg?w=250&h=250&f=contrast,-10&convolve=draw:edge-alt" caption="Kurre vilar, right w25" class="right w25"]
 
-<!--more-->
+[FIGURE src="image/charlotte_sommar_mindre.jpg?w=400" caption="Charlotte Viktorsson, left w50" class="left w50"]
+<!--[FIGURE src="image/20170826.jpg?w=200" caption="studiestugan, left w25" class="left w25"]-->
+[FIGURE src="image/SkaViLeka.jpg?r=-90&h=250&cf&area=0,50,40,0&f=grayscale" caption="Kurre sitter fint, right w25." class="right w25"]
 
+[FIGURE src="image/naturbildVarberg.jpg?r=180&w=500&cf&area=20,25,20,5" caption="Naturbild från stranden i Varberg, center w50" class="center w50"]
 
-Var kommer de ifrån? {#var}
------------------------------------
-
-<!-- <figure class="figure">
-    <a href="image/dbwebbisar.jpg"><img src="image/dbwebbisar.jpg?w=700" alt="Här är en liten del av den större planschen."/></a>
-    <figcaption markdown=1>Här är en liten del av den större planschen.</figcaption>
-</figure>-->
-[FIGURE src="image/dbwebbisar.jpg?w=700" caption="Här är en liten del av den större planschen."]
-
-Det är [Anna på Montage](http://montage.se/) som ritade dem en gång i tiden till en plansch.
-
-Planschen ser i sin helhet ut så här, klicka på den för att komma till bilden som fungerar utmärkt som bakgrundsbild på din desktop dator.
-
-<!--<figure class="figure">
-    <a href="https://dbwebb.se/img/dbwebb.jpg"><img src="https://dbwebb.se/img/dbwebb.jpg?w=700" alt="Den stora planschen."/></a>
-    <figcaption markdown=1>Den stora planschen.</figcaption>
-</figure> -->
-[FIGURE src="https://dbwebb.se/img/dbwebb.jpg?w=700" caption="Den stora planschen."]
-
-Håll till godo!
+[FIGURE src="image/analys/BildPureYogaHemsida.PNG?w=500&a=25,15,10,9" caption="Snapshot bild från Pure-Yogas hemsida, center w50"class="center w50"]
+[FIGURE src="image/analys/BildVisitKarlshamnHemsida.PNG?w=500&area=0,0,70,0" caption="Snapshot bild från VisitKarlshamns hemsida, center w50" class="center w50"]

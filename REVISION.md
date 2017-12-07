@@ -48,3 +48,12 @@ V4.0.0 (2017-11-28)
 * Added analysis section and color-analysis for this kmom.
 * Added page for tema descriptions
 * Removed unneccesary testpage
+
+V5.0.0 (2017-12-07)
+---------------------------------------
+
+* Updated for kmom05 with new theme for figures
+* Added Speed Analysis
+* Added blog section and blogitems
+* Added images page
+* updated images to use shortcode FIGURE.

@@ -64,8 +64,7 @@ Blekingetrafiken
 [Blekingetrafiken](http://www.blekingetrafiken.se)
 
 ###Snapshot bild
-<img src="img/analys/BildBlekingetrafikenHemsida.PNG", alt="Bild från Blekingetrafikens hemsida.">
-
+[FIGURE src="img/analys/BildBlekingetrafikenHemsida.PNG" class="left"]
 ###Förbättringsområden
 Jag upplever att denna sida kommer upp snabbt på min hemmadator och mobil, men den får dåligt betyg från PageSpeed.
 När jag åkt tåg och surfat in på sidan med mobil några gånger har jag tidigare märkt att det inte varit lika snabbt och smidigt, så det kanske snarare innebär att jag har bra internet här hemma!
@@ -80,7 +79,7 @@ SwedenRock
 [Sweden Rock](http://www.swedenrock.com/)
 
 ###Snapshot bild
-<img src="img/analys/BildSwedenRockHemsida.PNG", alt="Bild från SwedenRock's hemsida.">
+[FIGURE src="img/analys/BildSwedenRockHemsida.PNG" class="left"]
 
 ###Förbättringsområden
 
@@ -94,7 +93,7 @@ VisitKarlshamn
 [VisitKarlshamn](http://www.visitKarlshamn.se)
 
 ###Snapshot bild
-<img src="img/analys/BildVisitKarlshamnHemsida.PNG", alt="Bild från VisitKarlshamns hemsida.">
+[FIGURE src="img/analys/BildVisitKarlshamnHemsida.PNG" class="left"]
 
 ###Förbättringsområden
 

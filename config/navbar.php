@@ -14,7 +14,7 @@ return [
         // Here comes the menu structure
         "items" => [
             "home" => [
-                "text"  => t("Hem"),
+                "text"  => t("Home"),
                 "url"   => $this->di->get("url")->create("index"),
                 "title" => t("Startsida med me-innehåll"),
                 "mark-if-parent" => true,
@@ -33,11 +33,6 @@ return [
                 "title" => t("About this website")
             ],
 
-            /*"testing" => [
-                "text"  => t("Testing"),
-                "url"   => $this->di->get("url")->create("testing"),
-                "title" => t("Testing")
-            ],*/
             "grid" => [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
@@ -60,7 +55,18 @@ return [
                 "title" => t("Teman"),
                 "mark-if-parent" => true,
             ],
-
+            "blog" => [
+                "text"  => t("Blog"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blog"),
+                "mark-if-parent" => true,
+            ],
+            "images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Images"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
 
@@ -78,7 +84,7 @@ return [
         // Here comes the menu structure
         "items" => [
             "home" => [
-                "text"  => t("Hem"),
+                "text"  => t("Home"),
                 "url"   => $this->di->get("url")->create("index"),
                 "title" => t("Startsida med me-innehåll"),
                 "mark-if-parent" => true,
@@ -97,27 +103,25 @@ return [
                 "title" => t("About this website")
             ],
 
-            /*"testing" => [
-                "text"  => t("Testing"),
-                "url"   => $this->di->get("url")->create("testing"),
-                "title" => t("Testing")
-            ],*/
             "grid" => [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("Vertikal Grid")
             ],
+
             "typography" => [
                 "text"  => t("Typography"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typoigraphic Horizontal Grid")
             ],
+
             "analysis" => [
                 "text"  => t("Analysis"),
                 "url"   => $this->di->get("url")->create("analysis"),
                 "title" => t("Analysis from kmoms"),
                 "mark-if-parent" => true,
             ],
+
             "tema" => [
                 "text"  => t("Themes"),
                 "url"   => $this->di->get("url")->create("teman"),
@@ -125,6 +129,19 @@ return [
                 "mark-if-parent" => true,
             ],
 
+            "blog" => [
+                "text"  => t("Blog"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blog"),
+                "mark-if-parent" => true,
+            ],
+
+            "images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Images"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
 
