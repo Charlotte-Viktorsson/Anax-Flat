@@ -25,7 +25,7 @@ Generellt så upplever jag att sidan har mörka svarta/grå bakgrunder med texte
 Jag upplever att det passar väldigt bra till hårdrockstemat.
 
 ###Snapshot bild
-[FIGURE src="img/analys/BildSwedenRockHemsida.PNG" class="left"]
+[FIGURE src="img/analys/BildSwedenRockHemsida.PNG" class="left w50"]
 
 ###Färger:
 Det var över 500 träffar på color i css-filerna! Många av dem var nära nyanser av grått, svart och brons.
@@ -70,7 +70,7 @@ Det är mycket vit space runt objekten och de verkar ha tänkt på det gyllene s
 Huvudmenyn följer med när man scrollar ned.
 
 ###Snapshot bild
-[FIGURE src="img/analys/BildPureYogaHemsida.PNG" class="left"]
+[FIGURE src="img/analys/BildPureYogaHemsida.PNG" class="left w50"]
 
 ###Färger:
 Längst upp har vi huvudmenyn med ljus eller genomskinlig bakgrundsfärg, beroende på skärmbredd.
@@ -116,10 +116,9 @@ Restaurant Montmartre
 Restaurant Montmartre har stora bilder på matupplägg, exteriör och interiör som rullar. Färgerna i övrigt är övergripande vinrött, svart och vitt. Dessa tre färger är använda omvartannat som bakgrundsfärg, färg på text och andra detaljer.
 
 ###Snapshot bild
-[FIGURE src="img/analys/BildMontmartresHemsida.PNG" class="left"]
+[FIGURE src="img/analys/BildMontmartresHemsida.PNG" class="left w50"]
 
 ###Färger:
-
 Här har vi svart, vitt och en vinröd färg, så jag skulle kalla det för ett Monokromt färgschema.
 
 Allt det mörka ger en kvälls-känsla och det är bra med tanke på att det är kvällstid de har öppet.

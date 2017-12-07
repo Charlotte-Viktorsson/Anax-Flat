@@ -57,3 +57,9 @@ V5.0.0 (2017-12-07)
 * Added blog section and blogitems
 * Added images page
 * updated images to use shortcode FIGURE.
+
+V5.0.1 (2017-12-07)
+---------------------------------------
+
+* added report for Kmom05
+* updated link to excel-doc.

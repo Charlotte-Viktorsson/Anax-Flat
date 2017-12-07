@@ -20,7 +20,7 @@ Jag har även mätt laddningstider, nedladdningars storlek och antal i Nätverks
 Jag har använt Excel för att dokumentera mina mätningar.
 
 ###Data från mätningar
-Här nedan finns en sammanfattning av mätningarna, mer detaljer finns här: [mätningsdetaljer](../../data/Laddningstider.xls).
+Här nedan finns en sammanfattning av mätningarna, mer detaljer finns här: [mätningsdetaljer](../data/Laddningstider.xls).
 
 <table style="border-spacing: 4px; border-collapse: separate">
     <tr>
