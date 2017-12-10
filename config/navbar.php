@@ -33,39 +33,48 @@ return [
                 "title" => t("About this website")
             ],
 
-            "grid" => [
-                "text"  => t("Grid"),
-                "url"   => $this->di->get("url")->create("grid"),
-                "title" => t("Vertikal Grid")
-            ],
-            "typography" => [
-                "text"  => t("Typography"),
-                "url"   => $this->di->get("url")->create("typography"),
-                "title" => t("Typoigraphic Horizontal Grid")
-            ],
-            "analysis" => [
-                "text"  => t("Analysis"),
-                "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("Analysis from kmoms"),
-                "mark-if-parent" => true,
-            ],
-            "tema" => [
-                "text"  => t("Themes"),
-                "url"   => $this->di->get("url")->create("teman"),
-                "title" => t("Teman"),
-                "mark-if-parent" => true,
-            ],
-            "blog" => [
-                "text"  => t("Blog"),
-                "url"   => $this->di->get("url")->create("blogg"),
-                "title" => t("Blog"),
-                "mark-if-parent" => true,
-            ],
-            "images" => [
-                "text"  => t("Images"),
-                "url"   => $this->di->get("url")->create("images"),
-                "title" => t("Images"),
-                "mark-if-parent" => true,
+            "tasks" => [
+                "text"  => t("Tasks"),
+                "url"   => "#",
+                "title" => "Tasks",
+                "submenu" => [
+                    "items" => [
+                        "grid" => [
+                            "text"  => t("Grid"),
+                            "url"   => $this->di->get("url")->create("grid"),
+                            "title" => t("Vertical Grid")
+                        ],
+                        "typography" => [
+                            "text"  => t("Typography"),
+                            "url"   => $this->di->get("url")->create("typography"),
+                            "title" => t("Typoigraphic Horizontal Grid")
+                        ],
+                        "tema" => [
+                            "text"  => t("Themes"),
+                            "url"   => $this->di->get("url")->create("teman"),
+                            "title" => t("Teman"),
+                            "mark-if-parent" => true,
+                        ],
+                        "blog" => [
+                            "text"  => t("Blog"),
+                            "url"   => $this->di->get("url")->create("blogg"),
+                            "title" => t("Blog"),
+                            "mark-if-parent" => true,
+                        ],
+                        "images" => [
+                            "text"  => t("Images"),
+                            "url"   => $this->di->get("url")->create("images"),
+                            "title" => t("Images"),
+                            "mark-if-parent" => true,
+                        ],
+                        "analysis" => [
+                            "text"  => t("Analysis"),
+                            "url"   => $this->di->get("url")->create("analysis"),
+                            "title" => t("Analysis from kmoms"),
+                            "mark-if-parent" => true,
+                        ],
+                    ],
+                ],
             ],
         ],
     ],
@@ -103,44 +112,53 @@ return [
                 "title" => t("About this website")
             ],
 
-            "grid" => [
-                "text"  => t("Grid"),
-                "url"   => $this->di->get("url")->create("grid"),
-                "title" => t("Vertikal Grid")
-            ],
+            "tasks" => [
+                "text"  => t("Tasks"),
+                "url"   => "#",
+                "title" => "Tasks",
+                "submenu" => [
+                    "items" => [
+                        "grid" => [
+                            "text"  => t("Grid"),
+                            "url"   => $this->di->get("url")->create("grid"),
+                            "title" => t("Vertical Grid")
+                        ],
 
-            "typography" => [
-                "text"  => t("Typography"),
-                "url"   => $this->di->get("url")->create("typography"),
-                "title" => t("Typoigraphic Horizontal Grid")
-            ],
+                        "typography" => [
+                            "text"  => t("Typography"),
+                            "url"   => $this->di->get("url")->create("typography"),
+                            "title" => t("Typoigraphic Horizontal Grid")
+                        ],
 
-            "analysis" => [
-                "text"  => t("Analysis"),
-                "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("Analysis from kmoms"),
-                "mark-if-parent" => true,
-            ],
+                        "tema" => [
+                            "text"  => t("Themes"),
+                            "url"   => $this->di->get("url")->create("teman"),
+                            "title" => t("Teman"),
+                            "mark-if-parent" => true,
+                        ],
 
-            "tema" => [
-                "text"  => t("Themes"),
-                "url"   => $this->di->get("url")->create("teman"),
-                "title" => t("Teman"),
-                "mark-if-parent" => true,
-            ],
+                        "blog" => [
+                            "text"  => t("Blog"),
+                            "url"   => $this->di->get("url")->create("blogg"),
+                            "title" => t("Blog"),
+                            "mark-if-parent" => true,
+                        ],
 
-            "blog" => [
-                "text"  => t("Blog"),
-                "url"   => $this->di->get("url")->create("blogg"),
-                "title" => t("Blog"),
-                "mark-if-parent" => true,
-            ],
+                        "images" => [
+                            "text"  => t("Images"),
+                            "url"   => $this->di->get("url")->create("images"),
+                            "title" => t("Images"),
+                            "mark-if-parent" => true,
+                        ],
 
-            "images" => [
-                "text"  => t("Images"),
-                "url"   => $this->di->get("url")->create("images"),
-                "title" => t("Images"),
-                "mark-if-parent" => true,
+                        "analysis" => [
+                            "text"  => t("Analysis"),
+                            "url"   => $this->di->get("url")->create("analysis"),
+                            "title" => t("Analysis from kmoms"),
+                            "mark-if-parent" => true,
+                        ],
+                    ],
+                ],
             ],
         ],
     ],
