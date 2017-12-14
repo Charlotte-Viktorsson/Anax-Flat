@@ -6,8 +6,6 @@ titleBreadcrumb: Design Elements
 Design Elements
 =====
 
-Designprinciper
-=====
 Till grund för mitt arbete med designelement har jag använt materialet [Visual literacy](http://www.educ.kent.edu/community/VLO/Design/principles).
 
 
