@@ -63,3 +63,13 @@ V5.0.1 (2017-12-07)
 
 * added report for Kmom05
 * updated link to excel-doc.
+
+
+V6.0. (2017-12-14)
+---------------------------------------
+
+* added design analysis
+* added report for Kmom06
+* added content pages for design Principles and design Elements
+* updated navbar with submeny and more
+* updated theme-selector with new themes for design

@@ -32,7 +32,6 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
-
             "tasks" => [
                 "text"  => t("Tasks"),
                 "url"   => "#",
@@ -67,6 +66,16 @@ return [
                             "title" => t("Images"),
                             "mark-if-parent" => true,
                         ],
+                        "designElements" => [
+                            "text"  => t("Design Elements"),
+                            "url"   => $this->di->get("url")->create("design-element"),
+                            "title" => t("Design Elements"),
+                        ],
+                        "designPrinciples" => [
+                            "text"  => t("Design Principles"),
+                            "url"   => $this->di->get("url")->create("design-principles"),
+                            "title" => t("Design Principles"),
+                        ],
                         "analysis" => [
                             "text"  => t("Analysis"),
                             "url"   => $this->di->get("url")->create("analysis"),
@@ -75,6 +84,11 @@ return [
                         ],
                     ],
                 ],
+            ],
+            "theme-selector" => [
+                "text"  => t("Theme-Selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Theme-selector"),
             ],
         ],
     ],
@@ -151,6 +165,18 @@ return [
                             "mark-if-parent" => true,
                         ],
 
+                        "designElements" => [
+                            "text"  => t("Design Elements"),
+                            "url"   => $this->di->get("url")->create("design-element"),
+                            "title" => t("Design Elements"),
+                        ],
+
+                        "designPrinciples" => [
+                            "text"  => t("Design Principles"),
+                            "url"   => $this->di->get("url")->create("design-principles"),
+                            "title" => t("Design Principles"),
+                        ],
+
                         "analysis" => [
                             "text"  => t("Analysis"),
                             "url"   => $this->di->get("url")->create("analysis"),
@@ -159,6 +185,11 @@ return [
                         ],
                     ],
                 ],
+            ],
+            "theme-selector" => [
+                "text"  => t("Theme-Selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Theme-selector"),
             ],
         ],
     ],
