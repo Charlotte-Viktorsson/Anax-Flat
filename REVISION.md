@@ -75,7 +75,7 @@ V6.0.0 (2017-12-14)
 * updated theme-selector with new themes for design
 
 
-V6.0.0 (2017-12-14)
+V6.0.1 (2017-12-14)
 ---------------------------------------
 
 * fixed minor typo.
