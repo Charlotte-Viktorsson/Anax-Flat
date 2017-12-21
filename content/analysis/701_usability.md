@@ -3,12 +3,16 @@ Analys usability
 
 Sammanfattning
 ------
-Den här analysen ger enkla sidor med mindre funktionalitet bättre betyg än de mer komplexa hemsidorna.
+Totalt sett visar den här analysen att enkla sidor med mindre funktionalitet får bättre betyg i användarvänlighet än de mer komplexa hemsidorna i urvalet.
+SVTPlay och Kyparn upplevdes bättre ur användbarhetsaspekt än Arbetsförmedlingens Platsbank respektive Blocket.
 
 Urval
 ----
 Jag har följt kundens önskemål på att analysera sidor som jag är bekant med och besöker regelbundet.
-I urvalet har jag valt en sida som jag redan från början har en negativ känsla för från min användning (arbetsformedlingen), ska bli intressant att se om det är någon av aspekterna som vi ska fokusera på som brister. De övriga i urvalet har jag en relativt neutral åsikt om från början.
+Alla de undersökta sidorna hjälper till att söka efter olika saker: jobb, tv-program, lunchmenyer, och allt mellan himmel och jord i Blockets fall.
+
+I urvalet har jag valt en sida som jag redan från början har en negativ känsla för från min användning (arbetsformedlingen), de övriga i urvalet har jag en relativt neutral åsikt om från början.
+
 
 Metod
 ----
@@ -22,12 +26,13 @@ Uppgiften är att utifrån materialet [Usability 101:Introduction to Usability](
 4. Errors:        hur ofta och hur allvarliga fel gör användaren, och hur går det att återställa sidan efter fel?
 5. Satisfaction:  hur nöjd känner sig användaren efter användning av sidan?
 
-Jag har försökt vara objektiv vid min bedömning och har tänkt tillbaka på mina första erfarenheter av respektive sida, på min nuvarande normala användning av sidan, tänkt på de fel som jag upplevt och gått på min egen känsla av tillfredsställelse vid normal användning. När det gäller memorability har jag försökt att föreställa mig hur det skulle vara att komma tillbaka efter en tid, typiska kännetecken eller om det finns andra hjälpmedel för att känna sig hemma.
+Jag har försökt vara objektiv vid min bedömning och har tänkt tillbaka på mina första erfarenheter av respektive sida, på min nuvarande normala användning av sidan, tänkt på de fel som jag upplevt och gått på min egen känsla av tillfredsställelse vid normal användning.
 
-Jag har även använt mig av en nybörjar - testperson som fått ett uppdrag på respektive hemsida och betraktat hur personen går tillväga och vilka problem hen eventuellt dykt på.
+Jag har även använt mig av en nybörjar - testperson som fått ett uppdrag på respektive hemsida och betraktat hur personen gått tillväga och vilka problem hen eventuellt dykt på.
 
 För varje användbarhetsområde ger jag respektive sida i urvalet ett betyg på en skala mellan 0 och 5 och räknar sedan samman dem i slutet för ett generellt betyg.
 
+Arbetet har utförts enskilt förutom den hjälp av en nybörjaranvändare som jag använt.
 
 [Arbetsförmedlingen, Platsbanken](www.arbetsformedlingen.se)
 ======
