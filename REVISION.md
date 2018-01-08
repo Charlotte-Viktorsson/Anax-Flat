@@ -79,3 +79,8 @@ V6.0.1 (2017-12-14)
 ---------------------------------------
 
 * fixed minor typo.
+
+V7.0.0 (2018-01-08)
+---------------------------------------
+* added analysis for usability och way of writing on the Web
+* added report for project
