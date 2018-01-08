@@ -84,3 +84,7 @@ V7.0.0 (2018-01-08)
 ---------------------------------------
 * added analysis for usability och way of writing on the Web
 * added report for project
+
+V7.0.1 (2018-01-08)
+---------------------------------------
+* small update in report about finally managing to change flashimage in a theme. 
