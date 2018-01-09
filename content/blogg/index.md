@@ -1,4 +1,5 @@
 ---
+titleBreadcrumb: Blog
 views:
     main:
         template: default/article
@@ -30,7 +31,3 @@ views:
                 view: blog-list
 
 ...
-Min bild blogg
-===========================
-
-Dagens foto presenteras med en kort beskrivning om hur det gick till när bilden togs.

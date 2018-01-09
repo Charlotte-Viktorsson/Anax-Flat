@@ -1,17 +1,23 @@
 ---
 titleBreadcrumb: About
 ...
+<div class="center" markdown=1>
 
-Om den här siten
-================
+About ArtIst as a Customer
+--------
+ArtIst is a music producer, remixer, discjockey and soon radio presenter working in Europe. He is a top30 DJ in Sweden.
 
+The Customer would like the site to have a feeling of a live performance, with music, lights, audience and of course love.
 
-Den här websidan/siten är gjort av mig som en del av kursen __design__ som ingår i kurspaketet [Webbprogrammering och Databaser](https://www.bth.se/kurspaket/KP852/20172/).
+About the Site
+--------
+This site is build in order to
 
-Ramverket som använts finns i GitHub [canax/anax-flat](https://github.com/canax/anax-flat).
++ tell who ArtIst is
++ spread some of his music
++ share upcoming show dates
++ get followers on social media
++ write blogs to reach out to fans
++ later on, sell his music, maybe own merchandise products
 
-### Charlottes repositories på GitHub:
-[chokolotte/Anax-Flat](https://github.com/chokolotte/Anax-Flat)
-[chokolotte/Anax-Flat-Theme](https://github.com/chokolotte/anax-flat-theme).
-
-[FIGURE src="image/naturbildMedText.jpg" class="naturbildBohus center" caption="Bli inspirerad av naturen!"]
+</div>

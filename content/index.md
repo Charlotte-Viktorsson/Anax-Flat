@@ -1,31 +1,54 @@
 ---
 titleBreadcrumb: Home
-
 views:
-    byline:
-        region: after-main
+    breadcrumb:
+        region: breadcrumb
+        template: default/breadcrumb
+        data:
+            meta:
+                type: breadcrumb
+
+    main:
+        sort: 2
+        data:
+            meta:
+                type: toc-sort
+
+    sideline:
+        region: sidebar-right
         template: default/content
-        sort: 1
+        sort: 2
         data:
             meta:
                 type: content
-                route: block/byline
+                route: block/sideBarExempel
 ...
-Charlottes ME-sida
-====================
+DJ ArtIst
+------
 
-Hej!
 
-Här är en enkel websida gjort av mig som en del av kursen __design__ som ingår i kurspaketet [Webbprogrammering och Databaser](https://www.bth.se/kurspaket/KP852/20172/).
-Jag bor på landet utanför Karlshamn i Blekinge med man, två barn, två katter och en hund.
+[FIGURE src="image/a-dj-with-earphones.jpg?w=300&cf" class="left w50"]
+<div class=audioDiv>
+    <audio controls autoplay>
+        <source src="img/EdSheeranShapeOfYou-AudioTrimmed.mp3" type="audio/mpeg">
+    </audio>
+</div>
 
-Jag studerade datateknik i slutet av 90-talet och har sedan dess jobbat med mjukvaruutveckling.
-Nu önskar jag fördjupa mina front-end kunskaper!
+<div class="text">
+</div>
 
-Den första kursen i kurspaketet lärde mig PHP, HTML och CSS och lite databashantering till det. Jag hoppas den här kursen kommer att lära mig att designa kod bättre.
+Follow me on my trip!
+------
 
-Jag studerar på distans och sitter oftast i vår "lan"-stuga! Ni kan hitta mig i gitter-chatten under namnet *chokolotte* (för jag älskar ju choklad!), hoppas vi hörs!
+I am DJ ArtIst, playing on European festival arenas and loves the art of music and cool lighting.
+I play on festivals, clubs, events...  and more!
 
-mvh Charlotte
+Since childhood, music is the most important, and it still is what makes me happy. What makes you happy?
 
-[FIGURE src="image/20170826.jpg" class="stugbild center" caption="chokolottes studiestuga"]
+Music is around me at all time, when I eat, when I go to sleep, when I wake up and most of all... when I work.
+
+Hope you will help me living my dream!
+
+Love,
+
+DJ ArtIst

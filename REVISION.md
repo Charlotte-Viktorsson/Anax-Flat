@@ -75,7 +75,21 @@ V6.0.0 (2017-12-14)
 * updated theme-selector with new themes for design
 
 
-V6.0.0 (2017-12-14)
+V6.0.1 (2017-12-14)
 ---------------------------------------
 
 * fixed minor typo.
+
+V7.0.0 (2018-01-08)
+---------------------------------------
+* added analysis for usability och way of writing on the Web
+* added report for project
+
+V7.0.1 (2018-01-08)
+---------------------------------------
+* small update in report about finally managing to change flashimage in a theme.
+
+
+V10.0.0 (2018-01-09)
+---------------------------------------
+* Project specific version for kmom10, ArtIst.

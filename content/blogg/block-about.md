@@ -1,3 +1,3 @@
-####Min bild blogg
+####My blog
 
-Dagens foto presenteras med en kort beskrivning om motivet och fototillfället.
+Here you can expect blogs about events, news, happenings and personal reflections.

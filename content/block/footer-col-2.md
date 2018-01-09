@@ -1,4 +1,3 @@
-####Download
+####Book
 
-* [GitHub](https://github.com/canax/anax-flat)
-* [Packagist](https://packagist.org/packages/mos/anax-flat)
+[artist@gmail.com](mailto:artist@gmail.com)

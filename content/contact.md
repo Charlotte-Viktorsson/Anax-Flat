@@ -1,4 +1,4 @@
 Contact
 ==============================================
 
-Any questions about this site can be emailed to [Charlotte Viktorsson](mailto:charlotte.viktorsson.karlshamn@gmail.com).
+Any questions about this site can be emailed to [ArtIst](mailto:charlotte.viktorsson.karlshamn@gmail.com).

@@ -18,9 +18,9 @@ return [
             //"lang"          => "en",
             "lang"          => "sv",
             "charset"       => "utf-8",
-            "title_append"  => " | Anax Flat",
-            "favicon"       => "img/favicon/favicon_256x256.png",
-
+            "title_append"  => "",
+            //"favicon"       => "img/favicon/favicon_256x256.png",
+            "favicon"       => "image/dj-pictogramblack.png?w=256&h=256&cf",
             // Style and stylesheets
             //"stylesheets" => ["css/default.min.css"],
             "stylesheets" => [
@@ -44,21 +44,12 @@ return [
     "views" => [
         [
             "region" => "header",
-            "template" => "default/image",
-            "data" => [
-                "class" => "logo-1",
-                "src" => "img/favicon/favicon_128x128.png",
-                "alt" => "Logo",
-            ],
-            "sort" => 1
-        ],
-        [
-            "region" => "header",
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
                 "siteLogoText"  => "",
-                "siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
+                //"siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
+                "siteLogoTextIcon" => "image/dj-pictogramblack.png?w=64&h=64&cf",
                 "siteLogoTextIconAlt" => "Small logo",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",
@@ -67,7 +58,6 @@ return [
             ],
             "sort" => 2
         ],
-
         [
             "region" => "profile",
             "template" => "default/navbar-max",
